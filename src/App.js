@@ -11,7 +11,7 @@ export default function App() {
         <footer>
           This project was coded by{""}
           <a
-            href="https://github.com/Gire1/weather-app-react"
+            href="https://github.com/Gire1/react-weather-app2"
             target="_blank"
             rel="noreferrer"
           >
