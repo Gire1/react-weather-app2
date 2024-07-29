@@ -19,7 +19,7 @@ export default function App() {
           </a>{" "}
           and is{""}
           <a
-            href="https://github.com/Gire1/weather-app-react"
+            href="https://sparkly-beignet-9857df.netlify.app/"
             target="_blank"
             rel="noreferrer"
           >
